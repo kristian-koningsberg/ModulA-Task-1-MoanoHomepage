@@ -1,0 +1,123 @@
+body {
+  font-family: "Playfair Display", serif;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  margin: 0;
+}
+
+.wrapper {
+  max-width: 1024px;
+  min-height: 200px;
+  background-color: white;
+  background-image: url(images/Moano_portal-1024x600.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 0 auto;
+}
+
+
+
+
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+p {
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+
+}
+
+header {
+  height: 140px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo-small {
+  height: 84px;
+  width: auto;
+  margin-left: 80px;
+  margin-right: 32px;
+}
+
+.logo-big {
+  height: 730px;
+  width: auto;
+  margin: 0;
+}
+
+main {
+  margin: 40px 0px;
+}
+
+.main-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.col-top-left {
+  line-height: 16px;
+  margin-left: 80px;
+}
+
+.player {
+  border: 4px solid white;
+  border-radius: 20px;
+  margin-top: 16px;
+}
+
+.col-top-right {
+  margin: 0;
+}
+a {
+  margin-left: 16px;
+  opacity: .6;
+}
+a:hover {
+  opacity: 1.0;
+}
+
+.main-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  
+  padding: 100px 80px;
+}
+
+.col-bottom-left {
+  color: #083A59;
+  width: 305px;
+  margin: 0;
+
+}
+
+.col-bottom-left>h1 {
+  line-height: 16px;
+}
+
+
+
+footer {
+  height: 140px;
+  background-color: #083A59;
+  color: white;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  border-radius: 20px 20px 0 0;
+}
+.footer-text {
+  color: white;
+
+}
