@@ -1,0 +1,1 @@
+My very first attempt in HTML and CSS. We were assigned to create some sort of a webpage, so i made a page for one of my musical projects; Moano. It turned out great. It is not responsive on mobile. Only desktop
